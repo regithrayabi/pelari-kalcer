@@ -59,7 +59,7 @@ node test.js 7km 05:30
 MIT
 
 
-## Contoh Coding
+## Anda Bisa CopyPaste Code Ini
 ```
 const { hitungPace, prediksiWaktu, paceManagement } = require('pelari-kalcer');
 
