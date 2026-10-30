@@ -1,0 +1,19 @@
+{
+  "name": "pelari-kalcer",
+  "version": "1.0.0",
+  "description": "menghitung pace buat pamer for pelari kalcer",
+  "homepage": "https://github.com/regithrayabi/pelari-kalcer#readme",
+  "bugs": {
+    "url": "https://github.com/regithrayabi/pelari-kalcer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regithrayabi/pelari-kalcer.git"
+  },
+  "author": "rayabie",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
